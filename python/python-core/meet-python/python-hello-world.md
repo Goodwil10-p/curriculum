@@ -83,4 +83,4 @@ Complete the code snippet with the correct function to output `'Python with Enki
 - `write`
 - `sys.out`
 - `writeln`
- 
+  1 print -Mars
